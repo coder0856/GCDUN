@@ -52,7 +52,6 @@ def main():
     Time_All = np.zeros([1, ImgNum], dtype=np.float32)
 
     with torch.no_grad():
-        # model(torch.zeros(1, 1, 256, 256))
         print("\nCS Reconstruction Start")
         for img_no in range(ImgNum):
             imgName = filepaths[img_no]
