@@ -20,7 +20,7 @@ dant information before the gradient descent, providing necessary
  Deep Unfolding Networks (RGCDUN), which also achieves great
  performance but with much fewer parameters. Extensive experi
 ments manifest that our networks achieve excellent performance.
- The source codes are available at https://github.com/coder0856/GCDUN
+The source codes are available at https://github.com/coder0856/GCDUN
 
 ## Requirements
 python == 3.8
