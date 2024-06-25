@@ -1,8 +1,7 @@
 # Gates-Controlled Deep Unfolding Network for Image Compressed Sensing
 ## Abstract
 Deep Unfolding Networks(DUNs) have demonstrated remarkable success in compressed sensing by integrating opti
-mization solvers with deep neural networks. The issue of infor
-mation loss during the unfolding process has received significant
+mization solvers with deep neural networks. The issue of information loss during the unfolding process has received significant
  attention. To address this issue, many advanced deep unfolding
  networks utilize memory mechanisms to augment the information
  transmission during iterations. However, most of these networks
